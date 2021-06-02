@@ -17,7 +17,14 @@ function Widgets() {
 
       <div className="widgets__widgetContainer">
         <h2>What's happening</h2>
-        <TwitterTweetEmbed tweetId={"1307046632517664771"} />
+        <TwitterTweetEmbed tweetId={"1399831783613423616"} />
+        <TwitterTweetEmbed tweetId={"1400045810222575618"} />
+        <TwitterTweetEmbed tweetId={"1399355910670237699"} />
+        <TwitterTweetEmbed tweetId={"1399356016165154824"} />
+        <TwitterTweetEmbed tweetId={"1399363453085700100"} />
+        <TwitterTweetEmbed tweetId={"1399356291919880192"} />
+        <TwitterTweetEmbed tweetId={"1399374855263371264"} />
+        <TwitterTweetEmbed tweetId={"1399371184358105089"} />
         <TwitterTimelineEmbed
           sourceType="profile"
           screenName="sayambrand"
