@@ -1,3 +1,9 @@
+# Github Finder
+
+This project has been developed using one of the most popular JavaScript libraries and frameworks namely ReactJS. Using this app, the user can search for Github users. This app leverages Context API and React-Hooks like useState, useEffect and useReducer hooks for making the code more cleaner, scalable and readable. The app makes a request to a Github third party API in order to get data related to each user of Github and successfully displays user's details on being searched. The app has been successfully hosted on Netlify server.  
+
+## Website Link: https://githubfinder6784.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +74,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### For deployment on Netlify server
+
+### `netlify init`
+
+This command is used to initialize the app in the Netlify domain. 
+
+### `netlify deploy --prod`
+
+This command is used to deploy the app on the Netlify server.
