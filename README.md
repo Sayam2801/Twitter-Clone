@@ -2,7 +2,7 @@
 
 This project has been developed using one of the most popular JavaScript libraries and frameworks namely ReactJS. Using this app, the user can search for Github users. This app leverages Context API and React-Hooks like useState, useEffect and useReducer hooks for making the code more cleaner, scalable and readable. The app makes a request to a Github third party API in order to get data related to each user of Github and successfully displays user's details on being searched. The app has been successfully hosted on Netlify server.  
 
-## Website Link: https://githubfinder6784.netlify.app/
+## Website Link: https://twitter-clone256.netlify.app/
 
 # Getting Started with Create React App
 
